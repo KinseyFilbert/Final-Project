@@ -1,0 +1,53 @@
+body{
+    background-color: whitesmoke;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+    text-align: justify;
+    padding: 15px 25px;
+    border-radius: 8px;
+    font-style: italic;
+    color:black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://asset.kompas.com/crops/gL09vmVPYjiAm79oI6L3NW0jpl0=/177x0:2335x1439/1200x800/data/photo/2023/09/11/64fe97e84391a.jpg)
+    
+}
+
+p{
+    background-color: yellow;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+    text-align: justify;
+    padding: 15px 25px;
+    border-radius: 8px;
+    font-style: italic;
+    color:black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+p:hover{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+img{
+    height: 120px;
+}
+
+.box{
+    background-color: gold;
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 120px;
+}
+
+table{
+    background-color: aliceblue;
+}
